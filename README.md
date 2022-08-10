@@ -1,1 +1,1 @@
-# LED-binary-counter-using-arduino
+# LED Binary Counter Using Arduino
